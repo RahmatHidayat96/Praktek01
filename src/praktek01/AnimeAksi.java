@@ -12,5 +12,11 @@ package praktek01;
 public class AnimeAksi {
     public static void main(String[] args){
        Anime Date = new Anime();
+       
+       Date.Nama="Date A Live";
+       Date.Genres="Super Power";
+       Date.Sumber="Light Novel";
+       Date.Studios="AIC Plus+";
+       Date.Producers:="Kadokawa Shoten";
     }
 }
