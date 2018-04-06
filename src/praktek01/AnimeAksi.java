@@ -17,7 +17,7 @@ public class AnimeAksi {
        Date.Genres="Super Power";
        Date.Sumber="Light Novel";
        Date.Studios="AIC Plus+";
-       Date.Producers:="Kadokawa Shoten";
+       Date.Producers="Kadokawa Shoten";
        
        Date.CetakInfo();
     }
