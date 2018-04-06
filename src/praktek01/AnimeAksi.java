@@ -18,5 +18,7 @@ public class AnimeAksi {
        Date.Sumber="Light Novel";
        Date.Studios="AIC Plus+";
        Date.Producers:="Kadokawa Shoten";
+       
+       Date.CetakInfo();
     }
 }
