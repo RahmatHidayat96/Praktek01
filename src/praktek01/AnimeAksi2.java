@@ -10,5 +10,7 @@ package praktek01;
  * @author windows 8
  */
 public class AnimeAksi2 {
-    
+    public static void main(String[] args) {
+       Anime Over = new Anime();
+    }
 }
