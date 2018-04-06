@@ -18,5 +18,7 @@ public class AnimeAksi2 {
        Over.Sumber="Light Novel";
        Over.Studios="Madhouse";
        Over.Producers="AT-X";
+       
+       Over.CetakInfo();
     }
 }
