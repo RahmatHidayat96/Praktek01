@@ -10,5 +10,17 @@ package praktek01;
  * @author windows 8
  */
 public class Anime {
+    String Nama;
+    String Genres;
+    String Sumber;
+    String Studios;
+    String Producers;
     
+    void CetakInfo(){
+        System.out.println("Nama     :"+Nama);
+        System.out.println("Genres   :"+Genres);
+        System.out.println("Sumber   :"+Sumber);
+        System.out.println("Studious :"+Studios);
+        System.out.println("Producers:"+Producers);
+}
 }
