@@ -18,5 +18,7 @@ public class AnimeAksi3 {
        Mahouka.Sumber="Light Novel";
        Mahouka.Studios="Madhouse";
        Mahouka.Producers="Square Enix";
+       
+       Mahouka.CetakInfo();
     }
 }
